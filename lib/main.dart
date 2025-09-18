@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
           //       Icon(Icons.favorite, color: Colors.white, size: 50),
           //       SizedBox(width: 10),
           //       Text(
-          //         "You ISHA",
+          //         "Flutter",
           //         style: TextStyle(
           //           color: Colors.white,
           //           fontSize: 30,
